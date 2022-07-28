@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(165, 165, 206);
+}
+
+.banner{ 
+    text-align: center;
+    margin: 10px 0px;
+}
+#yo{
+    border-radius: 50%;
+    margin-top: -100px;
+  
+}
